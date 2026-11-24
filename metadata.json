@@ -1,0 +1,8 @@
+{
+  "name": "Remix Signal Hunter",
+  "description": "A one-screen cosmic radar arcade game: tune your radar to track an invisible drifting alien ship, lock onto its signal, and fire missiles before time or ammo runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
